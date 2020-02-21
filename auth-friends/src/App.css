@@ -58,6 +58,17 @@
 .friend-card {
   max-width: 500px;
   margin: 5% auto;
+  background-color: #333;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.friend-title {
+  font-size: 30px;
+}
+
+.friend-em {
+  font-weight: bold;
 }
 
 .card-btn {
